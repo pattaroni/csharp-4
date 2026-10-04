@@ -47,7 +47,7 @@ class Program
         Student s1 = new Student();
         s1.FirstName = "Олексій";
         s1.LastName = "Кирик";
-        s1.BirthYear = 2004;
+        s1.BirthYear = 2007;
 
         Student s2 = new Student();
         s2.FirstName = "Марія";
